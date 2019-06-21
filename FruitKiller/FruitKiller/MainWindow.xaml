@@ -1,0 +1,49 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FruitKiller"
+        xmlns:c="clr-namespace:FruitKiller"
+        xmlns:GestureTraceLibrary="clr-namespace:GestureTraceLibrary;assembly=GestureTraceLibrary" x:Class="FruitKiller.MainWindow"
+        mc:Ignorable="d"
+        Title="FruitKiller" Height="650" Width="1080" WindowState="Normal">
+    <Grid x:Name="LayoutRoot" Height="650" Width="1080" Background="White" TextElement.Foreground="Black">
+        <GestureTraceLibrary:SkeletonViewer Height="650" Width="1080" Initialized="Viewer_Initialized" x:Name="Viewer" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Canvas Opacity="0.5" >
+            <Ellipse x:Name="RightHandElement" Width="150" Height="92.7" >
+                <Ellipse.Fill>
+                    <RadialGradientBrush>
+                        <GradientStop Color="#FF000855" Offset="0"/>
+                        <GradientStop Offset="1" Color="#00FFFFFF"/>
+                        <GradientStop Color="#FF000855" Offset="0.25"/>
+                    </RadialGradientBrush>
+                </Ellipse.Fill>
+                <Ellipse.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="60" CenterX="75" CenterY="46.35"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Ellipse.RenderTransform>
+            </Ellipse>
+            <Ellipse x:Name="LeftHandElement" Width="150" Height="92.7" >
+                <Ellipse.Fill>
+                    <RadialGradientBrush>
+                        <GradientStop Color="#FF000855" Offset="0"/>
+                        <GradientStop Offset="1" Color="#00FFFFFF"/>
+                        <GradientStop Color="#FF000855" Offset="0.25"/>
+                    </RadialGradientBrush>
+                </Ellipse.Fill>
+                <Ellipse.RenderTransform>
+                    <TransformGroup>
+                        <RotateTransform x:Name="LeftHandScale" Angle="-60" CenterX="75" CenterY="46.35"/>
+                    </TransformGroup>
+                </Ellipse.RenderTransform>
+            </Ellipse>
+        </Canvas>
+
+
+    </Grid>
+</Window>

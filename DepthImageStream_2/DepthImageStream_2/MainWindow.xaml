@@ -1,0 +1,27 @@
+﻿<Window x:Class="DepthImageStream_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DepthImageStream_1"
+        mc:Ignorable="d"
+        Title="DepthImageStreamFromKinect--by:雪庆" Height="850" Width="1280"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel>
+            <StackPanel.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="#FFE9F317"/>
+                    <GradientStop Color="#FF040BA2" Offset="1"/>
+                </LinearGradientBrush>
+            </StackPanel.Background>
+            <StackPanel Orientation="Horizontal">
+                <Image x:Name="DepthImage" Width="640" Height="480" />
+                <Image x:Name="FilteredDepthImage" Width="640" Height="480" />
+            </StackPanel>
+            <ScrollViewer Margin="0, 15" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+                <StackPanel x:Name="DepthHistogram" Orientation="Horizontal" Height="300" />
+            </ScrollViewer>
+        </StackPanel>
+    </Grid>
+</Window>

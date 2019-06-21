@@ -1,0 +1,16 @@
+D:\Kinect\ours\Mouse_Control_2\Mouse_Control_2\bin\Debug\Mouse_Control_2.exe.config
+D:\Kinect\ours\Mouse_Control_2\Mouse_Control_2\bin\Debug\Mouse_Control_2.exe
+D:\Kinect\ours\Mouse_Control_2\Mouse_Control_2\bin\Debug\Mouse_Control_2.pdb
+D:\Kinect\ours\Mouse_Control_2\Mouse_Control_2\obj\Debug\Mouse_Control_2.csprojResolveAssemblyReference.cache
+D:\Kinect\ours\Mouse_Control_2\Mouse_Control_2\obj\Debug\MainWindow.g.cs
+D:\Kinect\ours\Mouse_Control_2\Mouse_Control_2\obj\Debug\App.g.cs
+D:\Kinect\ours\Mouse_Control_2\Mouse_Control_2\obj\Debug\Mouse_Control_2_MarkupCompile.cache
+D:\Kinect\ours\Mouse_Control_2\Mouse_Control_2\obj\Debug\Mouse_Control_2_MarkupCompile.lref
+D:\Kinect\ours\Mouse_Control_2\Mouse_Control_2\obj\Debug\MainWindow.baml
+D:\Kinect\ours\Mouse_Control_2\Mouse_Control_2\obj\Debug\Mouse_Control_2.g.resources
+D:\Kinect\ours\Mouse_Control_2\Mouse_Control_2\obj\Debug\Mouse_Control_2.Properties.Resources.resources
+D:\Kinect\ours\Mouse_Control_2\Mouse_Control_2\obj\Debug\Mouse_Control_2.csproj.GenerateResource.Cache
+D:\Kinect\ours\Mouse_Control_2\Mouse_Control_2\obj\Debug\Mouse_Control_2.exe
+D:\Kinect\ours\Mouse_Control_2\Mouse_Control_2\obj\Debug\Mouse_Control_2.pdb
+D:\Kinect\ours\Mouse_Control_2\Mouse_Control_2\obj\Debug\Interop.Office.dll
+D:\Kinect\ours\Mouse_Control_2\Mouse_Control_2\obj\Debug\Mouse_Control_2.csproj.ResolveComReference.cache

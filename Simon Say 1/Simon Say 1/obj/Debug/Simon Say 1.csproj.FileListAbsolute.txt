@@ -1,0 +1,14 @@
+D:\Kinect\ours\Simon Say 1\Simon Say 1\bin\Debug\Simon Say 1.exe.config
+D:\Kinect\ours\Simon Say 1\Simon Say 1\bin\Debug\Simon Say 1.exe
+D:\Kinect\ours\Simon Say 1\Simon Say 1\bin\Debug\Simon Say 1.pdb
+D:\Kinect\ours\Simon Say 1\Simon Say 1\obj\Debug\Simon Say 1.csprojResolveAssemblyReference.cache
+D:\Kinect\ours\Simon Say 1\Simon Say 1\obj\Debug\MainWindow.g.cs
+D:\Kinect\ours\Simon Say 1\Simon Say 1\obj\Debug\App.g.cs
+D:\Kinect\ours\Simon Say 1\Simon Say 1\obj\Debug\Simon Say 1_MarkupCompile.cache
+D:\Kinect\ours\Simon Say 1\Simon Say 1\obj\Debug\Simon Say 1_MarkupCompile.lref
+D:\Kinect\ours\Simon Say 1\Simon Say 1\obj\Debug\MainWindow.baml
+D:\Kinect\ours\Simon Say 1\Simon Say 1\obj\Debug\Simon Say 1.g.resources
+D:\Kinect\ours\Simon Say 1\Simon Say 1\obj\Debug\Simon_Say_1.Properties.Resources.resources
+D:\Kinect\ours\Simon Say 1\Simon Say 1\obj\Debug\Simon Say 1.csproj.GenerateResource.Cache
+D:\Kinect\ours\Simon Say 1\Simon Say 1\obj\Debug\Simon Say 1.exe
+D:\Kinect\ours\Simon Say 1\Simon Say 1\obj\Debug\Simon Say 1.pdb

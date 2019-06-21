@@ -1,0 +1,15 @@
+D:\Kinect\ours\SendMassageEngine\SendMassageEngine\bin\Debug\SendMassageEngine.exe.config
+D:\Kinect\ours\SendMassageEngine\SendMassageEngine\bin\Debug\SendMassageEngine.exe
+D:\Kinect\ours\SendMassageEngine\SendMassageEngine\bin\Debug\SendMassageEngine.pdb
+D:\Kinect\ours\SendMassageEngine\SendMassageEngine\bin\Debug\CommandEngine.dll
+D:\Kinect\ours\SendMassageEngine\SendMassageEngine\obj\Debug\SendMassageEngine.csprojResolveAssemblyReference.cache
+D:\Kinect\ours\SendMassageEngine\SendMassageEngine\obj\Debug\MainWindow.g.cs
+D:\Kinect\ours\SendMassageEngine\SendMassageEngine\obj\Debug\App.g.cs
+D:\Kinect\ours\SendMassageEngine\SendMassageEngine\obj\Debug\SendMassageEngine_MarkupCompile.cache
+D:\Kinect\ours\SendMassageEngine\SendMassageEngine\obj\Debug\SendMassageEngine_MarkupCompile.lref
+D:\Kinect\ours\SendMassageEngine\SendMassageEngine\obj\Debug\MainWindow.baml
+D:\Kinect\ours\SendMassageEngine\SendMassageEngine\obj\Debug\SendMassageEngine.g.resources
+D:\Kinect\ours\SendMassageEngine\SendMassageEngine\obj\Debug\SendMassageEngine.Properties.Resources.resources
+D:\Kinect\ours\SendMassageEngine\SendMassageEngine\obj\Debug\SendMassageEngine.csproj.GenerateResource.Cache
+D:\Kinect\ours\SendMassageEngine\SendMassageEngine\obj\Debug\SendMassageEngine.exe
+D:\Kinect\ours\SendMassageEngine\SendMassageEngine\obj\Debug\SendMassageEngine.pdb

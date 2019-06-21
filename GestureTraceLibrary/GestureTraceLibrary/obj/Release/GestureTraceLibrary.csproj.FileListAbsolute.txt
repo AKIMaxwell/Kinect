@@ -1,0 +1,10 @@
+D:\Kinect\ours\GestureTraceLibrary\GestureTraceLibrary\bin\Release\GestureTraceLibrary.dll
+D:\Kinect\ours\GestureTraceLibrary\GestureTraceLibrary\bin\Release\GestureTraceLibrary.pdb
+D:\Kinect\ours\GestureTraceLibrary\GestureTraceLibrary\obj\Release\GestureTraceLibrary.csprojResolveAssemblyReference.cache
+D:\Kinect\ours\GestureTraceLibrary\GestureTraceLibrary\obj\Release\SkeletonViewer.g.cs
+D:\Kinect\ours\GestureTraceLibrary\GestureTraceLibrary\obj\Release\GestureTraceLibrary_MarkupCompile.cache
+D:\Kinect\ours\GestureTraceLibrary\GestureTraceLibrary\obj\Release\GestureTraceLibrary_MarkupCompile.lref
+D:\Kinect\ours\GestureTraceLibrary\GestureTraceLibrary\obj\Release\SkeletonViewer.baml
+D:\Kinect\ours\GestureTraceLibrary\GestureTraceLibrary\obj\Release\GestureTraceLibrary.g.resources
+D:\Kinect\ours\GestureTraceLibrary\GestureTraceLibrary\obj\Release\GestureTraceLibrary.dll
+D:\Kinect\ours\GestureTraceLibrary\GestureTraceLibrary\obj\Release\GestureTraceLibrary.pdb

@@ -1,0 +1,34 @@
+﻿<Window x:Class="DepthImageStream_4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DepthImageStream_4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="1200" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel Orientation="Horizontal">
+            <Image x:Name="DepthImage" Margin="0, 0, 10, 0" Width="640" Height="480" />
+            <ItemsControl x:Name="PlayerDepthData" Width="300" TextElement.FontSize="20">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Margin="0, 15">
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="PlayerId:" />
+                                <TextBlock Text="{Binding Path=PlayerId}" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Width:" />
+                                <TextBlock Text="{Binding Path=RealWidth}" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Height:" />
+                                <TextBlock Text="{Binding Path=RealHeight}" />
+                            </StackPanel>
+                        </StackPanel>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </StackPanel>
+    </Grid>
+</Window>

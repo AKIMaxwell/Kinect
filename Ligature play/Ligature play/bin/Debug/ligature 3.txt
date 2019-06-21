@@ -1,0 +1,2 @@
+Copy:
+            this.puzzle.Dots.Add(new Point( 301   ,   295     ));

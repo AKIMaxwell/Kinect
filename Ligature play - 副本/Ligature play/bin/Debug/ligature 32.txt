@@ -1,0 +1,3 @@
+Copy:
+            MainWindow.puzzle.Dots.Add(new Point( 410.592067988669   ,   460.784702549575     ));
+            MainWindow.puzzle.Dots.Add(new Point( 1223.15864022663   ,   388.116147308782     ));

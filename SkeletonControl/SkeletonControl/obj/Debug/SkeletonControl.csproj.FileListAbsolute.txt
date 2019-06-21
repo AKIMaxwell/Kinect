@@ -1,0 +1,17 @@
+D:\Kinect\ours\SkeletonControl\SkeletonControl\bin\Debug\SkeletonControl.exe.config
+D:\Kinect\ours\SkeletonControl\SkeletonControl\bin\Debug\SkeletonControl.exe
+D:\Kinect\ours\SkeletonControl\SkeletonControl\bin\Debug\SkeletonControl.pdb
+D:\Kinect\ours\SkeletonControl\SkeletonControl\obj\Debug\SkeletonControl.csprojResolveAssemblyReference.cache
+D:\Kinect\ours\SkeletonControl\SkeletonControl\obj\Debug\MainWindow.g.cs
+D:\Kinect\ours\SkeletonControl\SkeletonControl\obj\Debug\Viewer.g.cs
+D:\Kinect\ours\SkeletonControl\SkeletonControl\obj\Debug\App.g.cs
+D:\Kinect\ours\SkeletonControl\SkeletonControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Kinect\ours\SkeletonControl\SkeletonControl\obj\Debug\SkeletonControl_MarkupCompile.cache
+D:\Kinect\ours\SkeletonControl\SkeletonControl\obj\Debug\SkeletonControl_MarkupCompile.lref
+D:\Kinect\ours\SkeletonControl\SkeletonControl\obj\Debug\MainWindow.baml
+D:\Kinect\ours\SkeletonControl\SkeletonControl\obj\Debug\Viewer.baml
+D:\Kinect\ours\SkeletonControl\SkeletonControl\obj\Debug\SkeletonControl.g.resources
+D:\Kinect\ours\SkeletonControl\SkeletonControl\obj\Debug\SkeletonControl.Properties.Resources.resources
+D:\Kinect\ours\SkeletonControl\SkeletonControl\obj\Debug\SkeletonControl.csproj.GenerateResource.Cache
+D:\Kinect\ours\SkeletonControl\SkeletonControl\obj\Debug\SkeletonControl.exe
+D:\Kinect\ours\SkeletonControl\SkeletonControl\obj\Debug\SkeletonControl.pdb

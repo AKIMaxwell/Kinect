@@ -1,0 +1,16 @@
+D:\Kinect\ours\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+D:\Kinect\ours\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+D:\Kinect\ours\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+D:\Kinect\ours\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+D:\Kinect\ours\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.g.cs
+D:\Kinect\ours\WpfApplication2\WpfApplication2\obj\Debug\App.g.cs
+D:\Kinect\ours\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+D:\Kinect\ours\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+D:\Kinect\ours\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.baml
+D:\Kinect\ours\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+D:\Kinect\ours\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+D:\Kinect\ours\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+D:\Kinect\ours\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.exe
+D:\Kinect\ours\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.pdb
+D:\Kinect\ours\WpfApplication2\WpfApplication2\obj\Debug\Form2.g.cs
+D:\Kinect\ours\WpfApplication2\WpfApplication2\obj\Debug\Form2.baml

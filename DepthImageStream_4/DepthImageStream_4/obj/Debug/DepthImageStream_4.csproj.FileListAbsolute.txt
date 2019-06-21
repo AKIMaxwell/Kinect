@@ -1,0 +1,14 @@
+D:\Kinect\ours\DepthImageStream_4\DepthImageStream_4\bin\Debug\DepthImageStream_4.exe.config
+D:\Kinect\ours\DepthImageStream_4\DepthImageStream_4\bin\Debug\DepthImageStream_4.exe
+D:\Kinect\ours\DepthImageStream_4\DepthImageStream_4\bin\Debug\DepthImageStream_4.pdb
+D:\Kinect\ours\DepthImageStream_4\DepthImageStream_4\obj\Debug\MainWindow.g.cs
+D:\Kinect\ours\DepthImageStream_4\DepthImageStream_4\obj\Debug\App.g.cs
+D:\Kinect\ours\DepthImageStream_4\DepthImageStream_4\obj\Debug\DepthImageStream_4_MarkupCompile.cache
+D:\Kinect\ours\DepthImageStream_4\DepthImageStream_4\obj\Debug\DepthImageStream_4_MarkupCompile.lref
+D:\Kinect\ours\DepthImageStream_4\DepthImageStream_4\obj\Debug\MainWindow.baml
+D:\Kinect\ours\DepthImageStream_4\DepthImageStream_4\obj\Debug\DepthImageStream_4.g.resources
+D:\Kinect\ours\DepthImageStream_4\DepthImageStream_4\obj\Debug\DepthImageStream_4.Properties.Resources.resources
+D:\Kinect\ours\DepthImageStream_4\DepthImageStream_4\obj\Debug\DepthImageStream_4.csproj.GenerateResource.Cache
+D:\Kinect\ours\DepthImageStream_4\DepthImageStream_4\obj\Debug\DepthImageStream_4.exe
+D:\Kinect\ours\DepthImageStream_4\DepthImageStream_4\obj\Debug\DepthImageStream_4.pdb
+D:\Kinect\ours\DepthImageStream_4\DepthImageStream_4\obj\Debug\DepthImageStream_4.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Kinect\ours\GestureTraceLibrary\GestureTraceLibrary\bin\Debug\GestureTraceLibrary.dll
+D:\Kinect\ours\GestureTraceLibrary\GestureTraceLibrary\bin\Debug\GestureTraceLibrary.pdb
+D:\Kinect\ours\GestureTraceLibrary\GestureTraceLibrary\obj\Debug\GestureTraceLibrary.dll
+D:\Kinect\ours\GestureTraceLibrary\GestureTraceLibrary\obj\Debug\GestureTraceLibrary.pdb
+D:\Kinect\ours\GestureTraceLibrary\GestureTraceLibrary\obj\Debug\SkeletonViewer.g.cs
+D:\Kinect\ours\GestureTraceLibrary\GestureTraceLibrary\obj\Debug\GestureTraceLibrary_MarkupCompile.cache
+D:\Kinect\ours\GestureTraceLibrary\GestureTraceLibrary\obj\Debug\GestureTraceLibrary_MarkupCompile.lref
+D:\Kinect\ours\GestureTraceLibrary\GestureTraceLibrary\obj\Debug\SkeletonViewer.baml
+D:\Kinect\ours\GestureTraceLibrary\GestureTraceLibrary\obj\Debug\GestureTraceLibrary.g.resources

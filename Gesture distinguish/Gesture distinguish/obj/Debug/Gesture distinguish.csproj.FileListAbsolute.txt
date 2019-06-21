@@ -1,0 +1,14 @@
+D:\Kinect\ours\Gesture distinguish\Gesture distinguish\bin\Debug\Gesture distinguish.exe.config
+D:\Kinect\ours\Gesture distinguish\Gesture distinguish\bin\Debug\Gesture distinguish.exe
+D:\Kinect\ours\Gesture distinguish\Gesture distinguish\bin\Debug\Gesture distinguish.pdb
+D:\Kinect\ours\Gesture distinguish\Gesture distinguish\obj\Debug\Gesture distinguish.csprojResolveAssemblyReference.cache
+D:\Kinect\ours\Gesture distinguish\Gesture distinguish\obj\Debug\MainWindow.g.cs
+D:\Kinect\ours\Gesture distinguish\Gesture distinguish\obj\Debug\App.g.cs
+D:\Kinect\ours\Gesture distinguish\Gesture distinguish\obj\Debug\Gesture distinguish_MarkupCompile.cache
+D:\Kinect\ours\Gesture distinguish\Gesture distinguish\obj\Debug\Gesture distinguish_MarkupCompile.lref
+D:\Kinect\ours\Gesture distinguish\Gesture distinguish\obj\Debug\MainWindow.baml
+D:\Kinect\ours\Gesture distinguish\Gesture distinguish\obj\Debug\Gesture distinguish.g.resources
+D:\Kinect\ours\Gesture distinguish\Gesture distinguish\obj\Debug\Gesture_distinguish.Properties.Resources.resources
+D:\Kinect\ours\Gesture distinguish\Gesture distinguish\obj\Debug\Gesture distinguish.csproj.GenerateResource.Cache
+D:\Kinect\ours\Gesture distinguish\Gesture distinguish\obj\Debug\Gesture distinguish.exe
+D:\Kinect\ours\Gesture distinguish\Gesture distinguish\obj\Debug\Gesture distinguish.pdb

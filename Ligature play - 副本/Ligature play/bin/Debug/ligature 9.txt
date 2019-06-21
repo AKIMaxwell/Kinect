@@ -1,0 +1,15 @@
+Copy:
+            this.puzzle.Dots.Add(new Point( 611   ,   326     ));
+            this.puzzle.Dots.Add(new Point( 677   ,   231     ));
+            this.puzzle.Dots.Add(new Point( 815   ,   115     ));
+            this.puzzle.Dots.Add(new Point( 936   ,   164     ));
+            this.puzzle.Dots.Add(new Point( 982   ,   314     ));
+            this.puzzle.Dots.Add(new Point( 957   ,   489     ));
+            this.puzzle.Dots.Add(new Point( 760   ,   605     ));
+            this.puzzle.Dots.Add(new Point( 609   ,   638     ));
+            this.puzzle.Dots.Add(new Point( 444   ,   591     ));
+            this.puzzle.Dots.Add(new Point( 389   ,   481     ));
+            this.puzzle.Dots.Add(new Point( 301   ,   293     ));
+            this.puzzle.Dots.Add(new Point( 341   ,   185     ));
+            this.puzzle.Dots.Add(new Point( 439   ,   131     ));
+            this.puzzle.Dots.Add(new Point( 529   ,   224     ));

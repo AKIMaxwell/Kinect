@@ -1,0 +1,14 @@
+D:\Kinect\ours\Simon Say - Posture\Simon Say - Posture\bin\Debug\Simon Say - Posture.exe.config
+D:\Kinect\ours\Simon Say - Posture\Simon Say - Posture\bin\Debug\Simon Say - Posture.exe
+D:\Kinect\ours\Simon Say - Posture\Simon Say - Posture\bin\Debug\Simon Say - Posture.pdb
+D:\Kinect\ours\Simon Say - Posture\Simon Say - Posture\obj\Debug\Simon Say - Posture.csprojResolveAssemblyReference.cache
+D:\Kinect\ours\Simon Say - Posture\Simon Say - Posture\obj\Debug\MainWindow.g.cs
+D:\Kinect\ours\Simon Say - Posture\Simon Say - Posture\obj\Debug\App.g.cs
+D:\Kinect\ours\Simon Say - Posture\Simon Say - Posture\obj\Debug\Simon Say - Posture_MarkupCompile.cache
+D:\Kinect\ours\Simon Say - Posture\Simon Say - Posture\obj\Debug\Simon Say - Posture_MarkupCompile.lref
+D:\Kinect\ours\Simon Say - Posture\Simon Say - Posture\obj\Debug\MainWindow.baml
+D:\Kinect\ours\Simon Say - Posture\Simon Say - Posture\obj\Debug\Simon Say - Posture.g.resources
+D:\Kinect\ours\Simon Say - Posture\Simon Say - Posture\obj\Debug\Simon_Say___Posture.Properties.Resources.resources
+D:\Kinect\ours\Simon Say - Posture\Simon Say - Posture\obj\Debug\Simon Say - Posture.csproj.GenerateResource.Cache
+D:\Kinect\ours\Simon Say - Posture\Simon Say - Posture\obj\Debug\Simon Say - Posture.exe
+D:\Kinect\ours\Simon Say - Posture\Simon Say - Posture\obj\Debug\Simon Say - Posture.pdb

@@ -1,0 +1,15 @@
+﻿<Window x:Class="PPT_Killer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PPT_Killer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" WindowState="Minimized">
+    <Grid>
+        <TextBlock x:Name="leftb" Margin="0,0,0,259.701"></TextBlock>
+        <TextBlock x:Name="rightb" Margin="0,97.015,0,152.239"></TextBlock>
+        <TextBlock x:Name="consoleb" Margin="0,234.328,0,0"></TextBlock>
+        
+    </Grid>
+</Window>

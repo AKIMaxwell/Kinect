@@ -1,0 +1,35 @@
+﻿<Window x:Class="Ligature_play.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ligature_play"
+        mc:Ignorable="d"
+        Title="Ligature Play -- by:雪庆" Background="White" WindowState="Maximized" >
+    <Viewbox>
+        <Grid x:Name="LayoutRoot">
+            <Canvas x:Name="BackGround" Width="1898" Height="1166" Background="#FFB4E1FF"/>
+            <Polyline x:Name="CrayonElement" Stroke="Black" StrokeThickness="3" />
+            <Canvas x:Name="PuzzleBoardElement" Width="1898" Height="1166" />
+            <Canvas x:Name="GameBoardElement" >
+                <Ellipse x:Name="HandCursorElement" Width="150" Height="92.7" >
+                    <Ellipse.Fill>
+                        <RadialGradientBrush>
+                            <GradientStop Color="#FF000855" Offset="0"/>
+                            <GradientStop Offset="1" Color="#00FFFFFF"/>
+                            <GradientStop Color="#FF000855" Offset="0.25"/>
+                        </RadialGradientBrush>
+                    </Ellipse.Fill>
+                    <Ellipse.RenderTransform>
+                        <TransformGroup>
+                            <RotateTransform x:Name="HandCursorScale" Angle="60" CenterX="75" CenterY="46.35"/>
+                        </TransformGroup>
+                    </Ellipse.RenderTransform>
+                </Ellipse>
+            </Canvas>
+            <Button x:Name="Button1" Click="NewLigature" Margin="1114.023,1134.421,688.078,10" Content="Write Ligature" Width="192" Height="44" FontSize="24"/>
+            <Button x:Name="Button2" Click="RedrawPuzzle" Margin="1559.708,1134.421,242.396,10" Content="Reload Ligature" FontSize="24"/>
+            <Button x:Name="Button3" Click="ReadPuzzle" Margin="1336.468,1134.421,465.636,10" Content="Read Ligature" FontSize="24"/>
+        </Grid>
+    </Viewbox>
+</Window>

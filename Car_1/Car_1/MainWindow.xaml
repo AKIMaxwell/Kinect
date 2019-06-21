@@ -1,0 +1,95 @@
+﻿<Window x:Class="Car_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Car_1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" WindowState="Maximized">
+    <Viewbox>
+        <Grid x:Name="LayoutRoot" Height="1080" Width="1902" Background="White" TextElement.Foreground="Black">
+            <!--<local:SkeletonViewer x:Name="SkeletonViewerElement"/>-->
+            <TextBlock Text="小车实时交互系统" FontSize="72" Margin="0" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="600" Margin="0,133,0,0">
+                <TextBlock x:Name="StateElement" FontSize="55" Text=" LET`S GO!" HorizontalAlignment="Center" Margin="0,-150,0,0"/>
+                <TextBlock x:Name="InstructionsElement" Text="将手放入框内开始控制小车" FontSize="42.667" HorizontalAlignment="Center" TextAlignment="Center" TextWrapping="Wrap" Margin="0,175,0,0"/>
+            </StackPanel>
+
+            <Canvas x:Name="GameCanvas">
+                <Rectangle x:Name="RedBlock" Height="200" Width="799" Fill="Red" Canvas.Left="570" Canvas.Top="90" Opacity="0.2"/>
+                <Rectangle x:Name="BlueBlock" Height="800" Width="200" Fill="Blue" Canvas.Left="350" Canvas.Top="120" Opacity="0.2"/>
+                <Rectangle x:Name="GreenBlock" Height="200" Width="800" Fill="Green" Canvas.Left="570" Canvas.Top="750" Opacity="0.2"/>
+                <Rectangle x:Name="YellowBlock" Height="800" Width="200" Fill="Yellow" Canvas.Left="1390" Canvas.Top="120" Opacity="0.2"/>
+            </Canvas>
+
+            <Canvas x:Name="ControlCanvas">
+                <Border x:Name="RightHandStartElement" Background="Red" Height="200" Padding="20" Canvas.Left="875" Canvas.Top="440">
+                    <Ellipse x:Name="RightHandCursorElement" Width="150" Height="92.7" Opacity="0" d:IsHidden="True" >
+                        <Ellipse.Fill>
+                            <RadialGradientBrush>
+                                <GradientStop Color="#FFECD333" Offset="0"/>
+                                <GradientStop Offset="1" Color="#00FFFFFF"/>
+                                <GradientStop Color="#FF000855" Offset="0.322"/>
+                            </RadialGradientBrush>
+                        </Ellipse.Fill>
+                        <Ellipse.RenderTransform>
+                            <TransformGroup>
+                                <RotateTransform x:Name="RightHandCursorScale" Angle="60" CenterX="75" CenterY="46.35"/>
+                            </TransformGroup>
+                        </Ellipse.RenderTransform>
+                    </Ellipse>
+                </Border>
+                <Border x:Name="LeftHandStartElement" Background="Red" Height="200" Padding="20" Canvas.Left="300" Canvas.Top="440" Opacity="0" d:IsHidden="True">
+                    <Ellipse x:Name="LeftHandCursorElement" Width="150" Height="92.7" >
+                        <Ellipse.Fill>
+                            <RadialGradientBrush>
+                                <GradientStop Color="#FFECD333" Offset="0"/>
+                                <GradientStop Offset="1" Color="#00FFFFFF"/>
+                                <GradientStop Color="#FF000855" Offset="0.322"/>
+                            </RadialGradientBrush>
+                        </Ellipse.Fill>
+                        <Ellipse.RenderTransform>
+                            <TransformGroup>
+                                <RotateTransform x:Name="LeftHandCursorScale" Angle="-60" CenterX="75" CenterY="46.35"/>
+                            </TransformGroup>
+                        </Ellipse.RenderTransform>
+                    </Ellipse>
+                </Border>
+            </Canvas>
+
+            <Canvas>
+                <Ellipse x:Name="RightHandElement" Width="150" Height="92.7" >
+                    <Ellipse.Fill>
+                        <RadialGradientBrush>
+                            <GradientStop Color="#FF000855" Offset="0"/>
+                            <GradientStop Offset="1" Color="#00FFFFFF"/>
+                            <GradientStop Color="#FF000855" Offset="0.25"/>
+                        </RadialGradientBrush>
+                    </Ellipse.Fill>
+                    <Ellipse.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="60" CenterX="75" CenterY="46.35"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Ellipse.RenderTransform>
+                </Ellipse>
+                <Ellipse x:Name="LeftHandElement" Width="150" Height="92.7" >
+                    <Ellipse.Fill>
+                        <RadialGradientBrush>
+                            <GradientStop Color="#FF000855" Offset="0"/>
+                            <GradientStop Offset="1" Color="#00FFFFFF"/>
+                            <GradientStop Color="#FF000855" Offset="0.25"/>
+                        </RadialGradientBrush>
+                    </Ellipse.Fill>
+                    <Ellipse.RenderTransform>
+                        <TransformGroup>
+                            <RotateTransform x:Name="LeftHandScale" Angle="-60" CenterX="75" CenterY="46.35"/>
+                        </TransformGroup>
+                    </Ellipse.RenderTransform>
+                </Ellipse>
+            </Canvas>
+        </Grid>
+    </Viewbox>
+</Window>

@@ -1,0 +1,16 @@
+D:\Kinect\ours\SkeletonStream_1_draw\SkeletonStream_1_draw\bin\Debug\SkeletonStream_1_draw.exe.config
+D:\Kinect\ours\SkeletonStream_1_draw\SkeletonStream_1_draw\bin\Debug\SkeletonStream_1_draw.exe
+D:\Kinect\ours\SkeletonStream_1_draw\SkeletonStream_1_draw\bin\Debug\SkeletonStream_1_draw.pdb
+D:\Kinect\ours\SkeletonStream_1_draw\SkeletonStream_1_draw\obj\Debug\SkeletonStream_1_draw.csprojResolveAssemblyReference.cache
+D:\Kinect\ours\SkeletonStream_1_draw\SkeletonStream_1_draw\obj\Debug\MainWindow.g.cs
+D:\Kinect\ours\SkeletonStream_1_draw\SkeletonStream_1_draw\obj\Debug\App.g.cs
+D:\Kinect\ours\SkeletonStream_1_draw\SkeletonStream_1_draw\obj\Debug\SkeletonStream_1_draw_MarkupCompile.cache
+D:\Kinect\ours\SkeletonStream_1_draw\SkeletonStream_1_draw\obj\Debug\SkeletonStream_1_draw_MarkupCompile.lref
+D:\Kinect\ours\SkeletonStream_1_draw\SkeletonStream_1_draw\obj\Debug\MainWindow.baml
+D:\Kinect\ours\SkeletonStream_1_draw\SkeletonStream_1_draw\obj\Debug\SkeletonStream_1_draw.g.resources
+D:\Kinect\ours\SkeletonStream_1_draw\SkeletonStream_1_draw\obj\Debug\SkeletonStream_1_draw.Properties.Resources.resources
+D:\Kinect\ours\SkeletonStream_1_draw\SkeletonStream_1_draw\obj\Debug\SkeletonStream_1_draw.csproj.GenerateResource.Cache
+D:\Kinect\ours\SkeletonStream_1_draw\SkeletonStream_1_draw\obj\Debug\SkeletonStream_1_draw.exe
+D:\Kinect\ours\SkeletonStream_1_draw\SkeletonStream_1_draw\obj\Debug\SkeletonStream_1_draw.pdb
+D:\Kinect\ours\SkeletonStream_1_draw\SkeletonStream_1_draw\bin\Debug\Microsoft.Kinect.dll
+D:\Kinect\ours\SkeletonStream_1_draw\SkeletonStream_1_draw\bin\Debug\Microsoft.Kinect.xml

@@ -1,0 +1,18 @@
+﻿<Window x:Class="DepthImageStream_5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DepthImageStream_5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="520" Width="660" WindowStartupLocation="CenterScreen">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FFF0F03A" Offset="0"/>
+            <GradientStop Color="#FF1106F3" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid>
+        <Image x:Name="GreenScreenImage" Height="480" Width="640" HorizontalAlignment="Left" VerticalAlignment="Bottom" />
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+D:\Kinect\ours\ColorStream\ColorStream\bin\Debug\ColorStream.exe.config
+D:\Kinect\ours\ColorStream\ColorStream\bin\Debug\ColorStream.exe
+D:\Kinect\ours\ColorStream\ColorStream\bin\Debug\ColorStream.pdb
+D:\Kinect\ours\ColorStream\ColorStream\obj\Debug\ColorStream.csprojResolveAssemblyReference.cache
+D:\Kinect\ours\ColorStream\ColorStream\obj\Debug\MainWindow.g.cs
+D:\Kinect\ours\ColorStream\ColorStream\obj\Debug\App.g.cs
+D:\Kinect\ours\ColorStream\ColorStream\obj\Debug\ColorStream_MarkupCompile.cache
+D:\Kinect\ours\ColorStream\ColorStream\obj\Debug\ColorStream_MarkupCompile.lref
+D:\Kinect\ours\ColorStream\ColorStream\obj\Debug\MainWindow.baml
+D:\Kinect\ours\ColorStream\ColorStream\obj\Debug\ColorStream.g.resources
+D:\Kinect\ours\ColorStream\ColorStream\obj\Debug\ColorStream.Properties.Resources.resources
+D:\Kinect\ours\ColorStream\ColorStream\obj\Debug\ColorStream.csproj.GenerateResource.Cache
+D:\Kinect\ours\ColorStream\ColorStream\obj\Debug\ColorStream.exe
+D:\Kinect\ours\ColorStream\ColorStream\obj\Debug\ColorStream.pdb

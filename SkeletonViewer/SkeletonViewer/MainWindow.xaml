@@ -1,0 +1,15 @@
+﻿<Window x:Class="SkeletonViewer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:c="clr-namespace:SkeletonViewer"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SkeletonViewer"
+        mc:Ignorable="d"
+        Title="include c:SkeletonViewer" Height="600" Width="800">
+    <Viewbox>
+        <Grid x:Name="LayoutRoot" Width="1920" Height="1200">
+            <c:SkeletonViewer x:Name="SkeletonViewerElement"/>
+        </Grid>
+    </Viewbox>
+</Window>

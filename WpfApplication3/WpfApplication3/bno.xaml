@@ -1,0 +1,13 @@
+﻿<Window x:Class="WpfApplication3.bno"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication3"
+        mc:Ignorable="d"
+        Title="提示" Height="130" Width="300" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TextBlock Text="费那么大劲儿来选不是，你似不似SB" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,30,20"/>
+        <Button x:Name="sure" Content="确定" Click="sure_Click" Height="30" Width="55" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,20,10"/>
+    </Grid>
+</Window>

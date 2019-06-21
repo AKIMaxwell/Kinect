@@ -1,0 +1,16 @@
+﻿<Window x:Class="Ligature_play.New_Ligature"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ligature_play"
+        mc:Ignorable="d"
+        Title="New Ligature -- by:雪庆" WindowState="Maximized">
+    <Viewbox>
+        <Grid x:Name="Grid" MouseLeftButtonUp="Grid_MouseLeftButtonUp" MouseMove="Write_Point" Width="1898" Height="1166">
+            <Canvas x:Name="PuzzleBoardElement" Width="1898" Height="1166" Background="#FFB4E1FF" />
+            <TextBlock x:Name="Text1" FontSize="64" Width="1898" Height="1166" />            
+            <Button x:Name="Button1" Click="button1_Click" Content="OK" Margin="1651.593,1075.534,74.089,0" FontSize="48" />
+        </Grid>
+    </Viewbox>
+</Window>

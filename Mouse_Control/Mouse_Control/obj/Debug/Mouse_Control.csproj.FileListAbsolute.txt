@@ -1,0 +1,14 @@
+D:\Kinect\ours\Mouse_Control\Mouse_Control\bin\Debug\Mouse_Control.exe.config
+D:\Kinect\ours\Mouse_Control\Mouse_Control\bin\Debug\Mouse_Control.exe
+D:\Kinect\ours\Mouse_Control\Mouse_Control\bin\Debug\Mouse_Control.pdb
+D:\Kinect\ours\Mouse_Control\Mouse_Control\obj\Debug\Mouse_Control.csprojResolveAssemblyReference.cache
+D:\Kinect\ours\Mouse_Control\Mouse_Control\obj\Debug\MainWindow.g.cs
+D:\Kinect\ours\Mouse_Control\Mouse_Control\obj\Debug\App.g.cs
+D:\Kinect\ours\Mouse_Control\Mouse_Control\obj\Debug\Mouse_Control_MarkupCompile.cache
+D:\Kinect\ours\Mouse_Control\Mouse_Control\obj\Debug\Mouse_Control_MarkupCompile.lref
+D:\Kinect\ours\Mouse_Control\Mouse_Control\obj\Debug\MainWindow.baml
+D:\Kinect\ours\Mouse_Control\Mouse_Control\obj\Debug\Mouse_Control.g.resources
+D:\Kinect\ours\Mouse_Control\Mouse_Control\obj\Debug\Mouse_Control.Properties.Resources.resources
+D:\Kinect\ours\Mouse_Control\Mouse_Control\obj\Debug\Mouse_Control.csproj.GenerateResource.Cache
+D:\Kinect\ours\Mouse_Control\Mouse_Control\obj\Debug\Mouse_Control.exe
+D:\Kinect\ours\Mouse_Control\Mouse_Control\obj\Debug\Mouse_Control.pdb

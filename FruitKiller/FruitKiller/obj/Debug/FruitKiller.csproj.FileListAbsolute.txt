@@ -1,0 +1,16 @@
+D:\Kinect\ours\FruitKiller\FruitKiller\bin\Debug\FruitKiller.exe.config
+D:\Kinect\ours\FruitKiller\FruitKiller\bin\Debug\FruitKiller.exe
+D:\Kinect\ours\FruitKiller\FruitKiller\bin\Debug\FruitKiller.pdb
+D:\Kinect\ours\FruitKiller\FruitKiller\obj\Debug\FruitKiller.csprojResolveAssemblyReference.cache
+D:\Kinect\ours\FruitKiller\FruitKiller\obj\Debug\MainWindow.g.cs
+D:\Kinect\ours\FruitKiller\FruitKiller\obj\Debug\App.g.cs
+D:\Kinect\ours\FruitKiller\FruitKiller\obj\Debug\FruitKiller_MarkupCompile.cache
+D:\Kinect\ours\FruitKiller\FruitKiller\obj\Debug\FruitKiller_MarkupCompile.lref
+D:\Kinect\ours\FruitKiller\FruitKiller\obj\Debug\MainWindow.baml
+D:\Kinect\ours\FruitKiller\FruitKiller\obj\Debug\FruitKiller.g.resources
+D:\Kinect\ours\FruitKiller\FruitKiller\obj\Debug\FruitKiller.Properties.Resources.resources
+D:\Kinect\ours\FruitKiller\FruitKiller\obj\Debug\FruitKiller.csproj.GenerateResource.Cache
+D:\Kinect\ours\FruitKiller\FruitKiller\obj\Debug\FruitKiller.exe
+D:\Kinect\ours\FruitKiller\FruitKiller\obj\Debug\FruitKiller.pdb
+D:\Kinect\ours\FruitKiller\FruitKiller\bin\Debug\GestureTraceLibrary.dll
+D:\Kinect\ours\FruitKiller\FruitKiller\bin\Debug\GestureTraceLibrary.pdb

@@ -1,0 +1,15 @@
+Copy:
+            MainWindow.puzzle.Dots.Add(new Point(200, 300));
+            MainWindow.puzzle.Dots.Add(new Point(1600, 300));
+            MainWindow.puzzle.Dots.Add(new Point(1650, 400));
+            MainWindow.puzzle.Dots.Add(new Point(1600, 500));
+            MainWindow.puzzle.Dots.Add(new Point(1000, 500));
+            MainWindow.puzzle.Dots.Add(new Point(1000, 600));
+            MainWindow.puzzle.Dots.Add(new Point(1200, 700));
+            MainWindow.puzzle.Dots.Add(new Point(1150, 800));
+            MainWindow.puzzle.Dots.Add(new Point(750, 800));
+            MainWindow.puzzle.Dots.Add(new Point(700, 700));
+            MainWindow.puzzle.Dots.Add(new Point(900, 600));
+            MainWindow.puzzle.Dots.Add(new Point(900, 500));
+            MainWindow.puzzle.Dots.Add(new Point(200, 500));
+            MainWindow.puzzle.Dots.Add(new Point(150, 400));
